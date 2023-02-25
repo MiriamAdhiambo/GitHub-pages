@@ -1,6 +1,11 @@
 ---
 title: Welcome to my blog
 ---
+title: "Welcome to my blog"
+date: 2019-01-20
+---
+
+---
 # about
 my name is Miriam Adhiambo and I am persionate aboute technology .I am also also support the goal towards financial freedom for women.Recently i am slowly gaining intrested in web3
 ## this image is amazing
